@@ -1,8 +1,8 @@
 ## TelephoneDirectory
 
 # Install
-Download the zip.
-Use xCode to run the project on the simulator or on an iPhone/iPad.
+- Download the zip.
+- Use xCode to run the project..
 
 # Usage
 - Add contacts using the "Add" Bar Button Item.
